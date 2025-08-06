@@ -1,1 +1,1 @@
-emby/embyserver:4.9.1.12
+emby/embyserver:4.9.1.14
