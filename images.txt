@@ -1,1 +1,2 @@
-emby/embyserver:4.9.1.14
+emby/embyserver:4.9.1.17
+vergoh/vnstat:latest
